@@ -1,0 +1,4 @@
+c:\users\mariaj saleem\documents\visual studio 2010\Projects\Babyshoe\Babyshoe\bin\Babyshoe.dll
+c:\users\mariaj saleem\documents\visual studio 2010\Projects\Babyshoe\Babyshoe\bin\Babyshoe.pdb
+c:\users\mariaj saleem\documents\visual studio 2010\Projects\Babyshoe\Babyshoe\obj\Debug\Babyshoe.dll
+c:\users\mariaj saleem\documents\visual studio 2010\Projects\Babyshoe\Babyshoe\obj\Debug\Babyshoe.pdb
